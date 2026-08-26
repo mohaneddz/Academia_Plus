@@ -1,3 +1,5 @@
+![Academia Plus](Screenshots/cover.avif)
+
 # 🏫 Academia Plus — School-Management-System
 
 ---
